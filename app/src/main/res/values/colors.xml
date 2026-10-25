@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#10161C</color>
+    <color name="surface">#182229</color>
+    <color name="surfaceHigh">#22313C</color>
+    <color name="fg">#E7EEF4</color>
+    <color name="muted">#8EA0B0</color>
+    <color name="accent">#3DDE9A</color>
+    <color name="onAccent">#062117</color>
+    <color name="danger">#FF6674</color>
+    <color name="dangerSurface">#3A1C22</color>
+    <color name="warning">#E6B35C</color>
+    <color name="line">#2C3D4B</color>
+</resources>
